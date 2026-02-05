@@ -14,7 +14,7 @@ FIELDS = ["intent", "source", "destination", "mode", "date", "time"]
 def search_transport(source, destination, mode):
     """
     Simulates a backend API call.
-    In a real WayPort system, this would call train/bus/flight APIs.
+    
     """
     print("\n[Backend API Simulation]")
     print(f"Searching {mode} options from {source} → {destination}...")
