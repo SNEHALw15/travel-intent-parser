@@ -1,6 +1,6 @@
 # travel-intent-parser
 LLM-powered travel intent parsing tool
-# Travel Intent Parser (WayPort Internship Mini Project)
+# Travel Intent Parser 
 
 This project converts natural language travel queries into structured JSON.
 
